@@ -1,0 +1,9 @@
+data/
+output/
+figures/
+sim/
+robustness/
+*.rds
+.Rhistory
+.RData
+.Rproj.user/
